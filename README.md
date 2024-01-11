@@ -12,7 +12,7 @@
     </li>
     <li>
     Press the windows key and type Device Manager. Open Device Manager
-    <a href="imgs\device_manager_COM.png">
+    <img href="imgs\device_manager_COM.png">
     </li>
     <li>
     In Device Manager, under Ports (COM & PLT) you will see the USB Serial Device (COM5*)
